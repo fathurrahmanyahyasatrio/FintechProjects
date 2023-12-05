@@ -1,4 +1,4 @@
-# fintechpart1
+# Fintech Projects
 
 Scheme of the project: 
 Part 1: We will thoroughly examine the business challenge and dedicate significant effort to analyze and preprocess the dataset.
